@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maricruz Chavarrías - Diseño Interior & Gráfico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background-color: #4b8e8d;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #4b8e8d;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #4b8e8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Maricruz Chavarrías</h1>
+        <p>Diseñadora de Interiores y Diseño Gráfico Digital</p>
+    </div>
+
+    <div class="content">
+        <div class="section">
+            <h2>Sobre Mí</h2>
+            <p>Soy Maricruz Chavarrías, una apasionada diseñadora de interiores y diseño gráfico digital con amplia experiencia en la creación de ambientes únicos y objetos decorativos. Me especializo en ofrecer servicios integrales para empresas que buscan una marca única y coherente, fusionando el espacio físico con el digital a través del diseño.</p>
+        </div>
+
+        <div class="section">
+            <h2>Servicios</h2>
+            <p>Ofrezco un amplio rango de servicios diseñados para crear una identidad de marca coherente y atractiva, que incluyen:</p>
+            <ul>
+                <li>Diseño de logo y material de branding.</li>
+                <li>Desarrollo de packaging.</li>
+                <li>Diseño y desarrollo de sitios web.</li>
+                <li>Diseño y fabricación de mobiliario y lámparas personalizadas.</li>
+                <li>Consultoría en distribución y decoración de espacios interiores.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Contacto</h2>
+            <p>Si estás interesado en trabajar conmigo o quieres saber más sobre mis servicios, no dudes en contactarme.</p>
+            <p>Email: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Maricruz Chavarrías. Todos los derechos reservados.</p>
+    </div>
+</body>
+</html>
